@@ -5,8 +5,6 @@
   "I turn designs into smooth, responsive interfaces. With a strong eye for detail and love for interaction, I craft clean UIs that feel alive."
 </p>
 
----
-
 ## About Me
 
 - 🎯 Specialized in building interactive, real-time frontend apps with beautiful UI  
@@ -14,8 +12,6 @@
 - 🎨 Strong eye for UI/UX – love working in **Figma** and translating clean designs into real experiences  
 - 🚀 Deploy-ready: Experienced with **Docker**, **AWS (EC2, S3, IAM, DynamoDB)**, **cPanel**, **DirectAdmin**  
 - 🔧 Comfortable integrating REST APIs and collaborating with backend teams (**Laravel**, **NestJS**)
-
----
 
 ## 🛠 Tech Stack
 
@@ -50,22 +46,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
 
----
-
-## 📌 Highlight Skills
-
-- 🎯 **Bootstrap layout master** – confident with complex responsive UI and spacing
-- 🎨 UI-first mindset – care deeply about smooth interaction, design consistency
-- 🔧 Real-time state management with **Redux + Socket.IO**
-- 🛠️ Full workflow: from design → code → hosting
-
----
-
 ## 📫 Reach Me
 
 - ✉️ Email: **nguyenquocviet2312@outlook.com.vn**  
----
-
-<p align="center">
-  💬 “Code đẹp là nghệ thuật. UI mượt là cảm xúc.”  
-</p>
