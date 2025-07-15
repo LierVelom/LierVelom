@@ -36,7 +36,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
 
-### 📫 Reach Me: ✉️ **nguyenquocviet2312@outlook.com.vn**
+Reach Me: ✉️ **nguyenquocviet2312@outlook.com.vn**
 
 <p align="center">
   💬 “Interfaces aren’t just meant to look good – they should feel alive.”  
